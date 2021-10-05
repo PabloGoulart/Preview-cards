@@ -4,7 +4,7 @@
 
 https://pablogoulart.github.io/Preview-cards/
 
-<p>O <a href="https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-">Preview Cardsy</a> é um site desenvolvido baseado no projeto do Frontend Mentor. Utilizei ele para práticar implementação de CSS Grid e Flexbox.</p>
+<p>O <a href="https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-">Preview Cards</a> é um site desenvolvido baseado no projeto do Frontend Mentor, onde exibi três colunas com texto. Utilizei o Flexbox para montar as colunas dos cartões, e o CSS Grid para o conteúdo dentro das colunas.</p>
 
 ## Layout mobile
 ![Mobile 1](https://github.com/PabloGoulart/Preview-cards/blob/master/assets/mobile-1.png)
